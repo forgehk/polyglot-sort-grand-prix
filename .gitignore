@@ -1,0 +1,18 @@
+# Build artifacts
+*.o
+*.obj
+*.exe
+*.out
+sort_demo
+cpp_sort
+
+# .NET
+bin/
+obj/
+*.user
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
